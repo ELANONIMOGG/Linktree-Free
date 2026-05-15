@@ -90,4 +90,4 @@ Este proyecto está disponible bajo la licencia MIT.
 
 ---
 
-Hecho con ❤️ para AWS Student Builders
+Hecho con ❤️ para AWS Student Builders UJAT
