@@ -2,20 +2,6 @@
 
 import { useState, useEffect } from 'react';
 
-const SocialIcon = ({ 
-  icon, 
-  label, 
-  color 
-}: { 
-  icon: React.ReactNode; 
-  label: string; 
-  color: string;
-}) => (
-  <div className={`w-12 h-12 rounded-full ${color} flex items-center justify-center transform transition-transform hover:scale-110`}>
-    {icon}
-  </div>
-);
-
 export default function Home() {
   const [mounted, setMounted] = useState(false);
 
